@@ -102,8 +102,8 @@ class Config:
 
     # HuggingFace configuration
     use_hf = True
-    hf_repo = "h9art/PARADIS-Qwen3_0.6B-10kWikiVi-FSDP"
-    # hf_repo = "h9art/PARADIS-Qwen3_1.7B-10kWikiVi-FSDP"
+    hf_repo = "Quoc59/PARADIS-Qwen3_0.6B-10kWikiVi-FSDP"
+    
     
     # Dataset
     train_size = 10000
